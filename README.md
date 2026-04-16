@@ -119,6 +119,3 @@ Fisierul **main.cpp** coordoneaza executia jocului.
 
 La fiecare tick se citeste actiunea adversarului, iar motorul de simulare actualizeaza starea jocului. Apoi, strategia decide urmatoarea mutare si se afiseaza mutarea aleasa **MOVE** sau **WAIT**.
 
-*Utilizarea AI*
-
-Pentru aceasta tema am utilizat AI-ul pentru a ma ajuta la implementarea strategiei programului (a functiei decide).
